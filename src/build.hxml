@@ -1,0 +1,12 @@
+-js JavaScript/gss.js
+-main Main
+-cp GSSClasses
+-cp UtilityClasses
+
+--next
+
+-cpp CPlusPlus
+-main Main
+-cp GSSClasses
+-cp UtilityClasses
+-D NO_PRECOMPILED_HEADERS 

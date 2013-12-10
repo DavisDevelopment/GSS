@@ -1,0 +1,43 @@
+import "module.gss";
+@myBalls:  blue;
+
+body {
+	background: rgb( 230, 230, 230 );
+	color:  hsl( 23, 14, 44 );
+	font-family: Arial;
+	div#wrapper {
+		background-color: #f9f9f9;
+		gradient( fuckMe, cockTits, nippleDrippings, cumBubbles );
+		myWrapper;
+		
+		h1.main-heading {
+			center("text");
+			color: #666;
+			when hovered {
+				color: black;
+				
+				p.fuckMyBabies {
+					color: @myBalls;
+					
+					span.keyword {
+						color: lightblue;
+						font-weight: bold;
+						
+						when hovered {
+							color: black;
+						}
+					}
+				}
+			}
+		}
+		p.description-paragraph {
+			padding: 15px;
+			line-height: 20px;
+			
+		}
+		span.keyword {
+			display: inline;
+			color: blue;
+		}
+	}
+}

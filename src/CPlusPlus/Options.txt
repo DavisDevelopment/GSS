@@ -1,0 +1,2 @@
+ -DNO_PRECOMPILED_HEADERS="1" -Dhaxe3="1" -Dhaxe_release="1" -Dhaxe_ver="3.01"
+C:\HaxeToolkit\haxe\lib\hxcpp/3,0,2/
